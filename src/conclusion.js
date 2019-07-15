@@ -10,7 +10,7 @@ const Conclusion = () => (
       
       It would be fascinating to look at funeral costs cross sectioned with sentiment analysis. After some preliminary reseach and it looks like the cost of a funeral might be slightly higher in France than in the United States once you calcuate in cemetary services. Does France's more negative outlook on death mean they hide from it even more than we do, thus allowing the French funeral industry to be even more predatory? It's hard to say, but with the correct data we could begin to make these predictions and more. 
     </p>
-    <p>Either way, we have a baseline now that is one of many ways we can measure how we talk about death. The question is what can we start to learn when we  </p>
+    <p>Either way, we have a baseline now that is one of many ways we can measure how we talk about death. The question is what can we start to learn when we put together data from multiple datasets and compare them over time. </p>
   </div>
 )
 
